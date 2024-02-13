@@ -28,7 +28,7 @@ Testing will be integrated into every phase of development to ensure robustness 
 ## Technical Stack:
 - **Project Management:** Jira
 - **Version Control:** Git
-- **Development Process:** Daily Stand-ups, 2-week Sprints, Retrospectives
+- **Development Process:** Daily Stand-ups, 2-week Sprints, Retrospectives, Sprint plannings
 - **Communication Tools:** Microsoft Teams/Google Meet/Slack
 - **Backend:** .NET/C#
 - **Frontend:** React/Angular
